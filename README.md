@@ -1,40 +1,210 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
-<div align="justify">
+# 🌈 Welcome to My Awesome Project 🌈
 
-<a href="https://www.instagram.com/rzashakeri/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@rzashakeri">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.twitter.com/rzashakeri/">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rezshakeri/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/barnamenevisiadmin/">
-<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://gitlab.com/rzashakeri">
-<img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-</a>
-
-</div>
-<p></p>
-<p align="justify">
-welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=60&duration=4000&pause=1000&center=true&vCenter=true&width=600&height=125&lines=Welcome+to+My+Awesome+Project!+;Let's+Build+Something+Amazing&color=ff7b7b" />
 </p>
 
-## My favorite tools and technologies ⚙️
+---
 
-> Tools and technologies that I have worked with and am interested in
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=kyreki&fontSize=40&fontColor=FFFFFF&height=40&textAlign=center&animation=fadeIn&fontAlignY=40" />
+</div>
+
+## ✨ About the Project
+
+**My Awesome Project** is a creative solution built with cutting-edge technologies to make things easier, faster, and more efficient.  
+It integrates design and development in the most elegant way possible. Feel free to use and contribute!
+
+---
+
+## 🚀 Key Features
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Feature-Modern%20Design-brightgreen?style=flat-square&logo=appveyor" />
+  <img src="https://img.shields.io/badge/Feature-Cross%20Platform-lightblue?style=flat-square&logo=windows" />
+  <img src="https://img.shields.io/badge/Feature-Fast%20Performance-yellow?style=flat-square&logo=apache" />
+  <img src="https://img.shields.io/badge/Feature-Easy%20Setup-orange?style=flat-square&logo=npm" />
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,mongodb,git,flask,graphql" />
+</div>
+
+---
+
+## 📦 Installation
+
+To set up this project on your local machine, follow these steps:
+
+```bash
+# Clone the repository
+git clone https://github.com/kyreki/awesome-project.git
+
+# Navigate into the project directory
+cd awesome-project
+
+# Install dependencies
+npm install
+
+# Start the project
+npm start
+```
+
+---
+
+## 🌟 Showcase
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" />
+</p>
+
+---
+
+## 📊 Programming Stats
+
+<div align="center">
+  <img align="center" width=385 src="https://github-readme-stats.vercel.app/api?username=kyreki&count_private=true&show_icons=true&theme=dark&border_radius=10" />
+  <img align="center" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyreki&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
+</div>
+
+---
+
+## 🐍 Snake Game
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from the community! Feel free to submit issues or pull requests to improve the project.
+
+---
+
+## 📬l Contact
+
+If you have any questions, feel free to reach out at **kyreki@example.com**.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=145&color=gradient&text=Thank+You&section=footer&reversal=false&animation=blinking&textBg=false&fontAlignY=75" />
+</div>
+
+
+---
+
+##
+
+
+# 🌈 Welcome to My Awesome Project 🌈
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=60&duration=4000&pause=1000&center=true&vCenter=true&width=600&height=125&lines=Welcome+to+My+Awesome+Project!+;Let's+Build+Something+Amazing&color=ff7b7b" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=kyreki&fontSize=40&fontColor=FFFFFF&height=40&textAlign=center&animation=fadeIn&fontAlignY=40" />
+</div>
+
+## ✨ About the Project
+
+**My Awesome Project** is a creative solution built with cutting-edge technologies to make things easier, faster, and more efficient.  
+It integrates design and development in the most elegant way possible. Feel free to use and contribute!
+
+---
+
+## 🚀 Key Features
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Feature-Modern%20Design-brightgreen?style=flat-square&logo=appveyor" />
+  <img src="https://img.shields.io/badge/Feature-Cross%20Platform-lightblue?style=flat-square&logo=windows" />
+  <img src="https://img.shields.io/badge/Feature-Fast%20Performance-yellow?style=flat-square&logo=apache" />
+  <img src="https://img.shields.io/badge/Feature-Easy%20Setup-orange?style=flat-square&logo=npm" />
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,mongodb,git,flask,graphql" />
+</div>
+
+---
+
+## 📦 Installation
+
+To set up this project on your local machine, follow these steps:
+
+```bash
+# Clone the repository
+git clone https://github.com/kyreki/awesome-project.git
+
+# Navigate into the project directory
+cd awesome-project
+
+# Install dependencies
+npm install
+
+# Start the project
+npm start
+```
+
+---
+
+## 🌟 Showcase
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" />
+</p>
+
+---
+
+## 📊 Programming Stats
+
+<div align="center">
+  <img align="center" width=385 src="https://github-readme-stats.vercel.app/api?username=kyreki&count_private=true&show_icons=true&theme=dark&border_radius=10" />
+  <img align="center" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyreki&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
+</div>
+
+---
+
+## 🐍 Snake Game
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from the community! Feel free to submit issues or pull requests to improve the project.
+
+---
+
+## 📬l Contact
+
+If you have any questions, feel free to reach out at **kyreki@example.com**.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=145&color=gradient&text=Thank+You&section=footer&reversal=false&animation=blinking&textBg=false&fontAlignY=75" />
+</div>
+
+
+
+---
 
 <table>
   <tr>
@@ -156,81 +326,3 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
  <tr>
  </tr>
 </table>
-
-## Github stats 📊
-
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=rzashakeri&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-</details>
-
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rzashakeri&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</details>
-
-
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
-</details>
-
-
-<details>
-  <summary>Wakatime ⏳</summary>
-  <br/>
-  <img src="https://wakatime.com/share/@rzashakeri/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
-  <br/>
-  <br/>
-  <br/>
-
-  <img src="https://wakatime.com/share/@rzashakeri/b43da924-55df-4315-897d-e4dd9fb798f9.png">
-</details>
-
-
-<details>
-  <summary>Extra Pins 📌</summary>
-  <br/>
-  <a href="https://github.com/rzashakeri/Lorem-Farsi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=Lorem-Farsi&theme=default" />
-</a>
-  <br/>
-  <br/>
- 
-   <a href="https://github.com/rzashakeri/Happier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=Happier&theme=default" />
-</a>
-  <br/>
-  <br/>
- 
-   <a href="https://github.com/rzashakeri/telegram-bot-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=telegram-bot-template&theme=default" />
- </a>
-
-
-   <br/>
-  <br/>
- 
-   <a href="https://github.com/rzashakeri/personal-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=personal-site&theme=default" />
- </a>
- 
-</details>
-
-## Recent GitHub Activity ✅
-
-![Metrics](https://metrics.lecoq.io/rzashakeri?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Asia%2FTehran)
-
-## GitHub Profile Trophy 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
