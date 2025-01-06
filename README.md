@@ -150,7 +150,6 @@ It integrates design and development in the most elegant way possible. Feel free
  <tr>
  </tr>
 </table>
----
 
 ## 📦 Installation
 
