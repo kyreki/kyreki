@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=About+This+Project&fontSize=40&fontColor=FFFFFF&height=50&textAlign=center&animation=fadeIn&fontAlignY=25" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=kyreki&fontSize=30&fontColor=FFFFFF&height=50&textAlign=center&animation=fadeIn&fontAlignY=25" />
 </div>
 
 ## ✨ About the Project
