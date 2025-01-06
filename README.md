@@ -145,6 +145,11 @@ It integrates design and development in the most elegant way possible. Feel free
     <td align="center" width="96">
         <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
       <br>Pytest
+    </td>
+  </tr>
+ <tr>
+ </tr>
+</table>
 ---
 
 ## 📦 Installation
