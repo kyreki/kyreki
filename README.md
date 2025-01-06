@@ -76,7 +76,7 @@ npm start
 ## 🐍 Snake Game
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kyreki/kyreki/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
