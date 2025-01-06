@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=kyreki&fontSize=40&fontColor=FFFFFF&height=20&textAlign=center&animation=fadeIn&fontAlignY=25" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=kyreki&fontSize=40&fontColor=FFFFFF&height=40&textAlign=center&animation=fadeIn&fontAlignY=25" />
 </div>
 
 ## ✨ About the Project
