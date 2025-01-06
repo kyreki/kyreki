@@ -10,10 +10,26 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=kyreki&fontSize=40&fontColor=FFFFFF&height=40&textAlign=center&animation=fadeIn&fontAlignY=40" />
 </div>
 
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&lines=Creating+Innovative+Solutions;Welcome+to+the+Future" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyreki/kyreki/main/assets/wave.svg" alt="wave" width="100%"/>
+</div>
+
+---
+
 ## ✨ About the Project
 
 **My Awesome Project** is a creative solution built with cutting-edge technologies to make things easier, faster, and more efficient.  
 It integrates design and development in the most elegant way possible. Feel free to use and contribute!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyreki/kyreki/main/assets/development.svg" alt="development" width="60%" />
+</div>
 
 ---
 
@@ -26,12 +42,20 @@ It integrates design and development in the most elegant way possible. Feel free
   <img src="https://img.shields.io/badge/Feature-Easy%20Setup-orange?style=flat-square&logo=npm" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyreki/kyreki/main/assets/feature.svg" alt="feature" width="50%"/>
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,mongodb,git,flask,graphql" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyreki/kyreki/main/assets/tech-stack.svg" alt="tech stack" width="70%" />
 </div>
 
 ---
@@ -54,6 +78,10 @@ npm install
 npm start
 ```
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyreki/kyreki/main/assets/setup.svg" alt="setup" width="50%"/>
+</div>
+
 ---
 
 ## 🌟 Showcase
@@ -71,12 +99,20 @@ npm start
   <img align="center" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyreki&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyreki/kyreki/main/assets/stats.svg" alt="stats" width="60%" />
+</div>
+
 ---
 
 ## 🐍 Snake Game
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kyreki/kyreki/output/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyreki/kyreki/main/assets/snake-game.svg" alt="snake game" width="60%"/>
 </div>
 
 ---
@@ -85,11 +121,19 @@ npm start
 
 We welcome contributions from the community! Feel free to submit issues or pull requests to improve the project.
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyreki/kyreki/main/assets/contribute.svg" alt="contribute" width="50%"/>
+</div>
+
 ---
 
 ## 📬l Contact
 
 If you have any questions, feel free to reach out at **kyreki@example.com**.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyreki/kyreki/main/assets/contact.svg" alt="contact" width="50%"/>
+</div>
 
 ---
 
