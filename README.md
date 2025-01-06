@@ -64,6 +64,23 @@ npm start
 
 ---
 
+## 📊 Programming Stats
+
+<div align="center">
+  <img align="center" width=385 src="https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&theme=dark&border_radius=10" />
+  <img align="center" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
+</div>
+
+---
+
+## 🐍 Snake Game
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
 ## 🤝 Contributing
 
 We welcome contributions from the community! Feel free to submit issues or pull requests to improve the project.
@@ -73,3 +90,9 @@ We welcome contributions from the community! Feel free to submit issues or pull 
 ## 📬l Contact
 
 If you have any questions, feel free to reach out at **your-email@example.com**.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=145&color=gradient&text=Thank+You&section=footer&reversal=false&animation=blinking&textBg=false&fontAlignY=75" />
+</div>
