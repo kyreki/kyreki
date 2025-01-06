@@ -42,7 +42,7 @@ To set up this project on your local machine, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/awesome-project.git
+git clone https://github.com/kyreki/awesome-project.git
 
 # Navigate into the project directory
 cd awesome-project
@@ -67,8 +67,8 @@ npm start
 ## 📊 Programming Stats
 
 <div align="center">
-  <img align="center" width=385 src="https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&theme=dark&border_radius=10" />
-  <img align="center" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
+  <img align="center" width=385 src="https://github-readme-stats.vercel.app/api?username=kyreki&count_private=true&show_icons=true&theme=dark&border_radius=10" />
+  <img align="center" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyreki&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
 </div>
 
 ---
@@ -76,7 +76,7 @@ npm start
 ## 🐍 Snake Game
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kyreki/kyreki/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
@@ -89,7 +89,7 @@ We welcome contributions from the community! Feel free to submit issues or pull 
 
 ## 📬l Contact
 
-If you have any questions, feel free to reach out at **your-email@example.com**.
+If you have any questions, feel free to reach out at **kyreki@example.com**.
 
 ---
 
