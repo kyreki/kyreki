@@ -52,3 +52,24 @@ npm install
 
 # Start the project
 npm start
+```
+
+---
+
+## 🌟 Showcase
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" />
+</p>
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from the community! Feel free to submit issues or pull requests to improve the project.
+
+---
+
+## 📬l Contact
+
+If you have any questions, feel free to reach out at **your-email@example.com**.
